@@ -1,5 +1,5 @@
 
-# PumpController Library Documentation
+# Linear PumpController Library Documentation (FMM20)
 
 The **PumpController** library is designed to control a linear stroke pump for dispensing liquids with high accuracy. It supports setting flow rates, counting dispensed volumes, and detecting abrupt changes using analog sensors to prevent over-dispensing.
 
